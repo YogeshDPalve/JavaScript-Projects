@@ -12,3 +12,4 @@ In this repository I have created basic projects using HTML, CSS and JS from beg
 <h3>Project-06 (Random Joke Generator)</h3>
 <h3>Project-07 (Country Guide)</h3>
 <h3>Project-08 (To do app)</h3>
+<h3>Project-09 (Stop Watch)</h3>
