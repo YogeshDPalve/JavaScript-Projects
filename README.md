@@ -15,3 +15,5 @@ In this repository, I have created basic projects using HTML, CSS and JS from be
 <h3>Project-09 (Stop Watch)</h3>
 <h3>Project-09 (Stop Watch)</h3>
 <h3>Project-10 (Rotating Image Gallery)</h3>
+<h3>Project-11 (Drum Sound Buttons)</h3>
+<h3>Project-12 (Calender)</h3>
