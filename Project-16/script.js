@@ -45,7 +45,7 @@ navigator.getBattery().then((battery) => {
                 chargingTimeRemainingE1.innerHTML = `Esitated charging time remaining : <p>${hr}hr ${min}mins</p>`;
             }
         }
-    }
+    };
 
     // Updating battery level
     function updateLevelInfo() {
@@ -53,8 +53,6 @@ navigator.getBattery().then((battery) => {
         chargingE1.style.width = chargingPercent;
         chargingPercentE1.textContent = chargingPercent;
     }
-
-
-})
+});
 
 
