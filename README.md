@@ -13,7 +13,6 @@
 <h3>Project-07 (Country Guide)</h3>
 <h3>Project-08 (To do app)</h3>
 <h3>Project-09 (Stop Watch)</h3>
-<h3>Project-09 (Stop Watch)</h3>
 <h3>Project-10 (Rotating Image Gallery)</h3>
 <h3>Project-11 (Drum Sound Buttons)</h3>
 <h3>Project-12 (Calender)</h3>
