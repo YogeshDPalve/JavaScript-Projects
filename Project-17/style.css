@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: yellow;
+  background: #BED7DC;
   color: white;
 }
 
@@ -21,7 +21,7 @@ body {
   height: 350px;
   display: grid;
   place-items: center;
-  background-color: black;
+  background-color: #153448;
   border-radius: 10px;
   padding: 0 0 10px 0;
 }
