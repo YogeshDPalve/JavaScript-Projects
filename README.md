@@ -29,3 +29,4 @@
 <h3>Project-23 (Text Typing Animation)</h3>
 <h3>Project-24 (Dice Roll Simulator)</h3>
 <h3>Project-25 (Speech to Text)</h3>
+<h3>Project-26 (Customer Feedback Page)</h3>
