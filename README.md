@@ -31,3 +31,4 @@
 <h3>Project-25 (Speech to Text)</h3>
 <h3>Project-26 (Customer Feedback Page)</h3>
 <h3>Project-26 (Clock (Analog + Digital))</h3>
+<h3>Project-26 (Clock (Analog + Digital))</h3>
