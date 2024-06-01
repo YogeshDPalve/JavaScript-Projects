@@ -36,4 +36,5 @@
 <h3>Project-30 (Gradient color Picker)</h3>
 <h3>Project-31 (Simple Calculator)</h3>
 <h3>Project-32 (Meme Generator)</h3>
-<h3>Project-31 (Drink Water limit)</h3>
+<h3>Project-33 (Drink Water)</h3>
+<h3>Project-34 (Catch the Fruits Game)</h3>
