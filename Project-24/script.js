@@ -36,5 +36,6 @@ function getDiceFace(rollResult){
             return "&#9860";
         case 6:
             return "&#9861";
+            
     }
 }
