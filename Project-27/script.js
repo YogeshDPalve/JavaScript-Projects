@@ -39,7 +39,6 @@ function getDate() {
 
 getDate();
 
-
 // To get time for digital clock
 
 const timeEl = document.querySelector(".time");
