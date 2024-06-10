@@ -39,3 +39,4 @@
 <h3>Project-33 (Drink Water)</h3>
 <h3>Project-34 (Catch the Fruits Game)</h3>
 <h3>Project-35 (Image Editor )</h3>
+<h3>Project-36 (Filterable Gallery)</h3>
