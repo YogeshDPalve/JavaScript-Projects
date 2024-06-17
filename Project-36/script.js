@@ -4,7 +4,6 @@ var tempActive = document.querySelector(".active");
 
 btnEl.forEach((btn) => {
     btn.addEventListener("click", (e) => {
-
         // To add border to button 
         tempActive.classList.remove("active")
         btn.classList.add("active")
