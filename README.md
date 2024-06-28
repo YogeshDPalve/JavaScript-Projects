@@ -41,4 +41,4 @@
 <h3>Project-35 (Image Editor)</h3>
 <h3>Project-36 (Filterable Gallery)</h3>
 <h3>Project-37 (Password Validation)</h3>
-<h3>Project-38 (RGB Color Slider)</h3
+<h3>Project-38 (RGB Color Slider )</h3
