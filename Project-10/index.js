@@ -1,7 +1,7 @@
 const imageContainerEl = document.querySelector(".image-container");
 const prevEl = document.querySelector(".prev");
 const nextEl = document.querySelector(".next");
-
+ 
 let x=0;
 let timer=0;
 
